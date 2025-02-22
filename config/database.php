@@ -2,7 +2,7 @@
 class Koneksi {
     private $host = "127.0.0.1";  // Sesuaikan dengan host database
     private $username = "root";   // Sesuaikan dengan username database
-    private $password = "root";   // Sesuaikan dengan password database
+    private $password = "";   // Sesuaikan dengan password database
     private $database = "diskon"; // Sesuaikan dengan nama database
     private $conn;
 
